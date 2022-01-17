@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/fydp-website/static/css/main.6769c022.css",
-    "main.js": "/fydp-website/static/js/main.a353cd78.js",
+    "main.css": "/fydp-website/static/css/main.dd4fbea6.css",
+    "main.js": "/fydp-website/static/js/main.810bcfd6.js",
     "static/js/787.2576319f.chunk.js": "/fydp-website/static/js/787.2576319f.chunk.js",
+    "static/media/Steven.jpg": "/fydp-website/static/media/Steven.60d465debb76750f69f1.jpg",
+    "static/media/Coffee_Farm.jpg": "/fydp-website/static/media/Coffee_Farm.f6cfd2f54efcc3276ccc.jpg",
+    "static/media/Ben.jpg": "/fydp-website/static/media/Ben.0216706628bb77bfdc04.jpg",
+    "static/media/Caleb.jpg": "/fydp-website/static/media/Caleb.3c75424802b4ec2fb44e.jpg",
+    "static/media/Mackenzie.jpg": "/fydp-website/static/media/Mackenzie.41b49d58df00e8989983.jpg",
+    "static/media/Jeff.jpg": "/fydp-website/static/media/Jeff.4dfaf9f9d4948be14ac6.jpg",
     "index.html": "/fydp-website/index.html",
-    "main.6769c022.css.map": "/fydp-website/static/css/main.6769c022.css.map",
-    "main.a353cd78.js.map": "/fydp-website/static/js/main.a353cd78.js.map",
+    "main.dd4fbea6.css.map": "/fydp-website/static/css/main.dd4fbea6.css.map",
+    "main.810bcfd6.js.map": "/fydp-website/static/js/main.810bcfd6.js.map",
     "787.2576319f.chunk.js.map": "/fydp-website/static/js/787.2576319f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6769c022.css",
-    "static/js/main.a353cd78.js"
+    "static/css/main.dd4fbea6.css",
+    "static/js/main.810bcfd6.js"
   ]
 }
