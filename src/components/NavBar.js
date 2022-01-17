@@ -13,7 +13,7 @@ function NavBar() {
         <nav className="navbar">
             <div className="navbar-container">
                 <NavLink to="/fydp-website" className="navbar-logo">
-                    FYDP
+                    Robot
                 </NavLink>
                 <div className="menu-icon" onClick={handleClick}>
                     {click ? <FontAwesomeIcon icon="times"/> : <FontAwesomeIcon icon="bars"/>}

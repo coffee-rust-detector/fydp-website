@@ -1,0 +1,92 @@
+.ben {
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/Ben.jpg");
+  /* Set a specific height */
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  border-color: #3ac879;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.caleb {
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/Caleb.jpg");
+  /* Set a specific height */
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  border-color: #3ac879;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.jeff {
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/Jeff.jpg");
+  /* Set a specific height */
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  border-color: #3ac879;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.mackenzie {
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/Mackenzie.jpg");
+  /* Set a specific height */
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  border-color: #3ac879;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.steven {
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../images/Steven.jpg");
+  /* Set a specific height */
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  border-color: #3ac879;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.aboutusitem-container {
+  background-color: white;
+  padding: 4rem 0 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.name {
+  font-size: large;
+  padding-bottom: 20px;
+}
+.title {
+  padding-top: 20px;
+  font-size: large;
+}
